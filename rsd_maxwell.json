@@ -1,0 +1,35 @@
+{
+  "triples": [
+    {
+      "source": "A_E",
+      "n": "d",
+      "target": "F_E",
+      "weight_re": 1.0,
+      "weight_im": 0.0,
+      "frame": 0,
+      "effective_n": "nan",
+      "inner": null
+    },
+    {
+      "source": "F_E",
+      "n": "W",
+      "target": "A_L",
+      "weight_re": 1.0,
+      "weight_im": 0.0,
+      "frame": 0,
+      "effective_n": "nan",
+      "inner": null
+    },
+    {
+      "source": "A_L",
+      "n": "box",
+      "target": "J_mu",
+      "weight_re": 1.0,
+      "weight_im": 0.0,
+      "frame": 0,
+      "effective_n": "nan",
+      "inner": null
+    }
+  ],
+  "total_n": "d+W+box"
+}

@@ -1,0 +1,35 @@
+{
+  "triples": [
+    {
+      "source": "psi",
+      "n": "1.0",
+      "target": "N",
+      "weight_re": 1.0,
+      "weight_im": 0.0,
+      "frame": 0,
+      "effective_n": "1.0",
+      "inner": null
+    },
+    {
+      "source": "N",
+      "n": "1.618034",
+      "target": "T",
+      "weight_re": 1.0,
+      "weight_im": 0.0,
+      "frame": 1,
+      "effective_n": "2.6180340069529473",
+      "inner": null
+    },
+    {
+      "source": "T",
+      "n": "2.618034",
+      "target": "S",
+      "weight_re": 1.0,
+      "weight_im": 0.0,
+      "frame": 2,
+      "effective_n": "6.854101995702843",
+      "inner": null
+    }
+  ],
+  "total_n": "5.236068"
+}

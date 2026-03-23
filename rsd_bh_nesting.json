@@ -1,0 +1,35 @@
+{
+  "triples": [
+    {
+      "source": "BH0",
+      "n": "n0",
+      "target": "BH1",
+      "weight_re": 1.0,
+      "weight_im": 0.0,
+      "frame": 0,
+      "effective_n": "nan",
+      "inner": null
+    },
+    {
+      "source": "BH1",
+      "n": "n1",
+      "target": "BH2",
+      "weight_re": 1.0,
+      "weight_im": 0.0,
+      "frame": 1,
+      "effective_n": "nan",
+      "inner": null
+    },
+    {
+      "source": "BH2",
+      "n": "n2",
+      "target": "BH3",
+      "weight_re": 1.0,
+      "weight_im": 0.0,
+      "frame": 2,
+      "effective_n": "nan",
+      "inner": null
+    }
+  ],
+  "total_n": "n0+n1+n2"
+}
